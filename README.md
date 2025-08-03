@@ -2,7 +2,7 @@
 
 ## 🌟 Who AIm?
 
-**Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, and few more decades in **Infrastructure Development** I'm now diving deep into the fascinating world of **Agentic AI systems**. 
+**Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, and a few more decades in **Infrastructure Development** I'm now diving deep into the fascinating world of **Agentic AI systems**. 
 
 I fell in love with Docker orchestration and Kubernetes for its **self-healing, declarative magic** ✨ There's something beautiful about infrastructure that thinks for itself. Now I'm taking that philosophy to the next level by building **AI agents that can actually operate that infrastructure**!
 
