@@ -1,10 +1,6 @@
 # Hello! 👋 AI'm Ivan
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Platform+Engineer;Kubernetes+Veteran+%F0%9F%9A%A2;AI+Agent+Architect+%F0%9F%A4%96;Solutions Architect"/>
-</div>
-
-## 🌟 About Me
+## 🌟 Who AIm?
 
 **Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, I'm now diving deep into the fascinating world of **Agentic AI systems**. 
 
@@ -12,7 +8,7 @@ I fell in love with Docker orchestration and Kubernetes for its **self-healing, 
 
 Currently experimenting with cutting-edge **Agent-to-Agent (A2A)** communication and **Model Context Protocol (MCP)** to revolutionize how we approach SRE and operations. Because why should humans be the bottleneck when AI can help our infrastructure truly heal itself?
 
-## 🚀 What I'm Building
+## 🚀 What AI'm Building
 
 ### 🎯 **AIRE A2A + MCP: Autonomous DevOps**
 Building a **Multi-Agent System Architecture** that transforms traditional DevOps workflows:
