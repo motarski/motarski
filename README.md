@@ -1,5 +1,9 @@
 # Hello! 👋 AI'm Ivan
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Platform+Engineer;Kubernetes+Veteran+🚢;AI+Agent+Architect+🤖;Solutions+Architect" alt="Typing SVG" />
+</div>
+
 ## 🌟 Who AIm?
 
 **Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, and a few more decades in **Infrastructure Development** I'm now diving deep into the fascinating world of **Agentic AI systems**. 
