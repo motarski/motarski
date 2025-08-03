@@ -1,16 +1,125 @@
-## Hi there 👋
+# Hello! 👋 I'm Ivan
 
-<!--
-**motarski/motarski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Platform+Engineer;Kubernetes+Veteran+%F0%9F%9A%A2;AI+Agent+Architect+%F0%9F%A4%96;Solutions Architect" alt="Typing SVG" />
+</div>
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, I'm now diving deep into the fascinating world of **Agentic AI systems**. 
+
+I fell in love with Docker orchestration and Kubernetes for its **self-healing, declarative magic** ✨ There's something beautiful about infrastructure that thinks for itself. Now I'm taking that philosophy to the next level by building **AI agents that can actually operate that infrastructure**!
+
+Currently experimenting with cutting-edge **Agent-to-Agent (A2A)** communication and **Model Context Protocol (MCP)** to revolutionize how we approach SRE and operations. Because why should humans be the bottleneck when AI can help our infrastructure truly heal itself?
+
+## 🚀 What I'm Building
+
+### 🎯 **AIRE A2A + MCP: Autonomous DevOps**
+Building a **Multi-Agent System Architecture** that transforms traditional DevOps workflows:
+
+```
+Slack Alert → AI Investigates → Autonomous Fix → PR Creation → Root Cause Analysis
+```
+
+**The Vision**: Infrastructure that doesn't just self-heal, but self-improves through intelligent agent collaboration.
+
+**Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • Ollama | OpenAI or Antropic Claude (My personal go to AI)
+
+---
+
+## 🛠️ My Toolbox
+
+### ☸️ **Kubernetes Ecosystem**
+```yaml
+experience:
+  kubernetes: "10+ years"
+  approach: "Declarative, GitOps-first"
+  philosophy: "Infrastructure as Code, Everything as Code"
+```
+
+### 🤖 **AI & Automation**
+- **Kagent Framework** - Cloud-native agentic AI
+- **Agent-to-Agent (A2A)** - Multi-agent orchestration
+- **Model Context Protocol (MCP)** - Standardized tool communication
+- **Ollama** - Local LLM deployment and management
+
+### ☁️ **Cloud Platforms**
+- **AWS EKS** - Design, configure, manage at scale
+- **Azure AKS** - Full-stack cloud-native solutions
+- **Multi-cloud** - Because vendor lock-in is so last decade
+
+### 💻 **Languages & Tools**
+```bash
+#!/bin/bash
+# My daily drivers
+python --version  # For serious automation
+bash --version    # For quick wins and glue code
+kubectl version   # Obviously
+```
+
+---
+
+## 🎯 Current Focus
+
+### 🔬 **Experimenting With**
+- **Agent-to-Agent Communication** protocols
+- **Autonomous incident resolution** workflows  
+- **Multi-modal AI** for infrastructure monitoring
+- **Agent Gateway** AI Control Data plane
+- **GitOps + AI** integration patterns
+
+### 📚 **Learning Journey**
+- **Kubernetes** never stop the upgrade
+- Advanced **LLM fine-tuning** for ops scenarios
+- **Prompt engineering** for technical domains
+- **AI safety** in production environments
+- **Observability** for AI agent systems
+
+---
+
+## 🌈 Fun Facts
+
+- 🐳 **Docker containers deployed**: Lost count after 100K
+- ☸️ **Kubernetes clusters managed**: From tiny dev clusters to massive production beasts
+- 🤖 **Favorite AI quote**: *"The best infrastructure is the one that manages itself"*
+- 🔧 **Philosophy**: *"Stop Starting, Start Finishing"*
+- ☕ **Powered by**: Coffee, curiosity, and the occasional Kubernetes debugging sessions at 3 AM
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=motarski&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=motarski&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=motarski&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+**Interested in the future of autonomous infrastructure?** Let's chat about:
+- 🤖 Agentic AI in DevOps/SRE
+- ☸️ Kubernetes at scale
+- 🔄 Agent-to-Agent architectures
+- 🚀 The intersection of AI and infrastructure
+
+**Find me here:**
+- 💼 [LinkedIn](https://linkedin.com/in/ivanthegreat)
+- 📧 [Email](mailto:ivan@barjaktarov.se)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=motarski&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
+
+<div align="center">
+
+### *"A(I) can help turning your infrastructure into intelligent architecture."* 🚀
+
+</div>
