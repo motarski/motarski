@@ -14,7 +14,7 @@ Currently experimenting with cutting-edge **Agent-to-Agent (A2A)** communication
 Building a **Multi-Agent System Architecture** that transforms traditional DevOps workflows:
 
 ```
-User Layer Interface → AI Investigates → Autonomous Fix → PR Creation → Root Cause Analysis -> Slack | Teams Notification
+User Input Layer → AI Investigates → Autonomous Fix → PR Creation → Root Cause Analysis -> Slack | Teams Notification
 ```
 
 **The Vision**: Infrastructure that doesn't just self-heal, but self-improves through intelligent agent collaboration.
