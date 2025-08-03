@@ -28,6 +28,7 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 ### ☸️ **Kubernetes Ecosystem**
 ```yaml
 experience:
+  infrastructure: "20+ years"
   kubernetes: "10+ years"
   approach: "Declarative, GitOps-first"
   philosophy: "Infrastructure as Code, Everything as Code"
