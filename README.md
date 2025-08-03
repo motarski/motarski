@@ -1,7 +1,7 @@
-# Hello! 👋 I'm Ivan
+# Hello! 👋 AI'm Ivan
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Platform+Engineer;Kubernetes+Veteran+%F0%9F%9A%A2;AI+Agent+Architect+%F0%9F%A4%96;Solutions Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Platform+Engineer;Kubernetes+Veteran+%F0%9F%9A%A2;AI+Agent+Architect+%F0%9F%A4%96;Solutions Architect"/>
 </div>
 
 ## 🌟 About Me
@@ -120,6 +120,6 @@ kubectl version   # Obviously
 
 <div align="center">
 
-### *"A(I) can help turning your infrastructure into intelligent architecture."* 🚀
+### *"A(I) can help you turning your infrastructure into intelligent architecture."* 🚀
 
 </div>
