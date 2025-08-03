@@ -19,7 +19,7 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 
 **The Vision**: Infrastructure that doesn't just self-heal, but self-improves through intelligent agent collaboration.
 
-**Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • Ollama | OpenAI or Antropic Claude (My personal go to AI)
+**Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • Ollama | Anthropic or OpenAI
 
 ---
 
