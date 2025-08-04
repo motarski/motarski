@@ -1,6 +1,6 @@
 # Hello! 👋 I'm Ivan
 
-## 🌟 Who Am I?
+## 🌟 Who Am I
 
 **Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, and a few more decades in **Infrastructure Development** I'm now diving deep into the fascinating world of **Agentic AI systems**. 
 
@@ -21,7 +21,7 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 
 **Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • LLM Provider
 
-### 🧠 What is **AIRE**?  
+### 🧠 What is **AIRE**
 **Artificial Intelligence Reliability Engineering** — a discipline focused on building autonomous, self-healing, and self-improving infrastructure systems using intelligent agents.
 
 
