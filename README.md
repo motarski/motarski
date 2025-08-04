@@ -19,7 +19,7 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 
 **The Vision**: Infrastructure that doesn't just self-heal, but self-improves through intelligent agent collaboration.
 
-**Tech Stack**: Kagent Framework • A2A Protocol • Model Context Protocol • Kubernetes • ArgoCD • LLM Provider
+**Tech Stack**: Kagent Framework • A2A • MCP • Kubernetes • ArgoCD • LLM Provider
 
 ### 🧠 What is **AIRE**
 **Artificial Intelligence Reliability Engineering** — a discipline focused on building autonomous, self-healing, and self-improving infrastructure systems using intelligent agents.
