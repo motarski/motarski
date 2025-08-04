@@ -101,7 +101,7 @@ kubectl version   # Obviously
 
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
 **Interested in the future of autonomous infrastructure?** Let's chat about:
 - 🤖 Agentic AI in DevOps/SRE
