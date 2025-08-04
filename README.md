@@ -22,7 +22,7 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 **Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • LLM Provider
 
 ### 🧠 What is **AIRE**?  
-**Artificial Intelligence Reliability Engineering** — a discipline focused on building autonomous, self-healing, and self-improving infrastructure systems using intelligent agents.
+**A**rtificial **I**ntelligence **R**eliability **E**ngineering — a discipline focused on building autonomous, self-healing, and self-improving infrastructure systems using intelligent agents.
 
 
 ---
