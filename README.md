@@ -74,7 +74,7 @@ kubectl version   # Obviously
 - Advanced **LLM fine-tuning** for ops scenarios
 - **Prompt engineering** for technical domains
 - **AI safety** in production environments
-- **Observability** for AI agent systems
+- **Observability and Governance** for AI agent systems
 
 ---
 
