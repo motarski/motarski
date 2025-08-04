@@ -1,6 +1,6 @@
-# Hello! 👋 AI'm Ivan
+# Hello! 👋 I'm Ivan
 
-## 🌟 Who AIm?
+## 🌟 Who Am I?
 
 **Platform Engineer** by day, **AI Agent Architect** by night! With over a **decade of Kubernetes orchestration** under my belt, and a few more decades in **Infrastructure Development** I'm now diving deep into the fascinating world of **Agentic AI systems**. 
 
@@ -8,9 +8,9 @@ I fell in love with Docker orchestration and Kubernetes for its **self-healing, 
 
 Currently experimenting with cutting-edge **Agent-to-Agent (A2A)** communication and **Model Context Protocol (MCP)** to revolutionize how we approach SRE and operations. Because why should humans be the bottleneck when AI can help our infrastructure truly heal itself?
 
-## 🚀 What AI'm Building
+## 🚀 What Am I Building
 
-### 🎯 **AIRE A2A + MCP: Autonomous DevOps**
+### 🎯 **AIRE A2A + MCP: Autonomous DevOps & SRE**
 Building a **Multi-Agent System Architecture** that transforms traditional DevOps workflows:
 
 ```
@@ -19,7 +19,9 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 
 **The Vision**: Infrastructure that doesn't just self-heal, but self-improves through intelligent agent collaboration.
 
-**Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • Ollama | Anthropic or OpenAI
+**Tech Stack**: Kagent Framework • Model Context Protocol • Kubernetes • ArgoCD • LLM Provider
+
+* AIRE stands for **Artificial Intelligence Reliability Engineering**
 
 ---
 
@@ -117,6 +119,6 @@ kubectl version   # Obviously
 
 <div align="center">
 
-### *"A(I) can help you turning your infrastructure into intelligent architecture."* 🚀
+### *"I can help you turn your infrastructure into intelligent architecture."* 🚀
 
 </div>
