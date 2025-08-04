@@ -70,7 +70,7 @@ kubectl version   # Obviously
 - **GitOps + AI** integration patterns
 
 ### 📚 **Learning Journey**
-- **Kubernetes** never stop the upgrade
+- **Kubernetes** never going to stop
 - Advanced **LLM fine-tuning** for ops scenarios
 - **Prompt engineering** for technical domains
 - **AI safety** in production environments
