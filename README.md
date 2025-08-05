@@ -34,7 +34,8 @@ User Input Layer → AI Investigates → Autonomous Fix → PR Created → Root 
 experience:
   infrastructure: "20+ years"
   kubernetes: "10+ years"
-  approach: "Declarative, GitOps-first"
+  ai: "2+ years"
+  approach: "Declarative, GitOps-first, Agentic Systems"
   philosophy: "Infrastructure as Code, Everything as Code"
 ```
 
